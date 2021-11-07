@@ -1,0 +1,23 @@
+body {
+    background-image: url("Connectedtotheweb.jpg");
+    background-size: cover;
+}
+
+h3 {
+    color:rgb(149, 0, 255);
+
+}
+a {
+    text-decoration: none;
+    color:orange;
+ }
+ a:hover{
+    text-decoration: underline;
+    color: orangered;
+    text-decoration-color: rgb(149, 255, 0);
+ }
+
+ h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+h1 {color: #ff4400}

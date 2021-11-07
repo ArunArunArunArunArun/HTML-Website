@@ -1,0 +1,23 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+h1 {color: #ff4400}
+
+body {
+  
+    background-image: url("/HTML CSS/Images/White Background image.jpeg");
+    background-size: cover;
+ }
+ul {font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+    color:orange;
+ }
+ a:hover{
+    text-decoration: underline;
+    color: orangered;
+    text-decoration-color: rgb(149, 255, 0);
+ }

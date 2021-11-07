@@ -1,0 +1,31 @@
+body {
+    background-image: url(red-background-nawpic.png);
+    background-size: cover;
+}
+
+h1 {
+    color:orangered;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    color:rgb(255, 217, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+h3 {
+    color: yellow;
+    font-family:inherit;
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+    color:orange;
+ }
+ a:hover{
+    text-decoration: underline;
+    color: orangered;
+    text-decoration-color: rgb(149, 255, 0);
+ }
